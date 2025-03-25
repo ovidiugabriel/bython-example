@@ -1,5 +1,5 @@
 
-def print_message(num_of_times) {
+def print_message(num_of_times : int) {
     for i in range(num_of_times) {
         print("Bython is awesome!");
     }
